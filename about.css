@@ -1,0 +1,87 @@
+body{ background-color: #dee0e4;}
+.PRISHTINA{
+    margin-left: 30px;
+}
+.aeroplani{
+    width: 520px;
+    height: 550px;
+}
+.aboutus{
+    width: 1000px;
+    
+}
+.pershkeimi{
+    display: flex;
+    margin-top: 100px;
+}
+.historia{
+    font-size: x-large;
+}
+.carvago{
+    background-color: rgb(73, 73, 209); ;
+    width: 600PX;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    
+    
+}
+.carvagotxt{
+    display: flex;
+    margin-left: 15px;
+   
+}
+.gjirafa{
+    display: flex;
+}
+.TEKSTI{
+    display: flex;
+    align-items: center;
+}
+.pershkrimi {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.kerri{
+    width: 500px;
+    height: 150px;
+    display: flex;
+}
+.VictoryTaxi{
+    background-color: rgb(228, 208, 29);
+    width: 600PX;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+}
+.txt{
+    margin-left: 15px;
+    margin-top: 50px;
+}
+.partner{
+    display: flex;
+    justify-content: center;
+}
+.rregullat{
+    background-color: rgb(72, 133, 224);
+    border-radius: 15px;
+    border-color: rgb(7, 126, 223);
+    height: 850px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.pr{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.lista{
+    margin-left: 30px;
+    margin-top: 30px;
+}

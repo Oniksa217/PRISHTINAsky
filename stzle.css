@@ -1,0 +1,63 @@
+body{ background-color: #dee0e4;}
+.covid19{
+    width: 1000px;
+    height: 120px;
+    background-color: #6dbdf3;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+.table{
+    margin-top: 70px;
+    
+}
+.carvago{
+    background-color: rgb(73, 73, 209); ;
+    width: 1500PX;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    
+}
+.carvagotxt{
+    display: flex;
+   
+}
+.gjirafa{
+    display: flex;
+}
+.TEKSTI{
+    display: flex;
+    align-items: center;
+}
+.pershkrimi {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.kerri{
+    width: 500px;
+    height: 150px;
+    display: flex;
+}
+.majt{
+    display: block;
+}
+.foto{
+    width: 121px;
+    height: 120px;
+    display: flex;
+    margin-right: 10px;
+}
+.teksticovid{
+    display: block;
+    width: 1000px;
+    height: 120px;
+}
